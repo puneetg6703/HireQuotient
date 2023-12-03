@@ -1,0 +1,50 @@
+#tech-companies-1{
+    width: 85%;
+    margin: auto;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+thead{
+    text-align: left;
+}
+
+tbody{
+    text-align: left;
+}
+table {
+    border-collapse: collapse;
+  }
+tr{
+    border-bottom: 1px solid gray;
+}
+th,td{
+    padding: 20px;
+}
+
+thead{
+    color: gray;
+}
+
+button{
+    background: white;
+    padding: 7px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #DFE1E1;
+}
+.row{
+    margin: 25px 52px;
+    /* width: 92%;
+    display: flex;
+    justify-content: space-between; */
+}
+.form-control{
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+    border: 1px solid gray;
+}
